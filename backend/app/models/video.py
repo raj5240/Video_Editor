@@ -9,8 +9,7 @@ class Video(Base):
     title = Column(String, index=True)
     description = Column(Text, nullable=True)
     file_path = Column(String, nullable=False)
-    overlay_data = Column(Text, nullable=True)  # JSON string for overlay information
-    created_at = Column(Integer)  # Timestamp for when the video was uploaded
+    overlay_data = Column(Text, nullable=True)  
+    created_at = Column(Integer)  
 
-    # Relationships can be defined here if needed
-    # overlays = relationship("Overlay", back_populates="video")
+  
