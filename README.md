@@ -79,9 +79,3 @@ video-editing-app
 ### Usage
 - Access the frontend application at `http://localhost:3000`.
 - Use the video upload feature to add videos, manage overlays, and render your edited videos.
-
-## Contributing
-Contributions are welcome! Please open an issue or submit a pull request for any enhancements or bug fixes.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
