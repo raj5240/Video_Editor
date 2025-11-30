@@ -65,12 +65,6 @@ video-editing-app
      pip install -r requirements.txt
      ```
 
-### Running the Application
-
-- **Using Docker Compose**
-  ```
-  docker-compose up --build
-  ```
 
 - **Without Docker**
   - Start the backend server:
